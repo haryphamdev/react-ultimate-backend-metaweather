@@ -1,4 +1,4 @@
-# redux-react-server-backend
+# nodejs-apis-server-backend
 backend nodejs for series react ultimate on udemy
 
 step 1: clone this project
